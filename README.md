@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Ülker</h1>
 <h3 align="center">A passionate Junior FullStack Developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetulkr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetulkr" /> </p>
+
 
 - 📫 How to reach me **aulkerhm@gmail.com**
 
